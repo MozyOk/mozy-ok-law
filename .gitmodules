@@ -1,3 +1,3 @@
 [submodule "noise"]
-    path = themes/noise/
+    path = /themes/noise/
     url = https://github.com/MozyOk/hexo-theme-noise

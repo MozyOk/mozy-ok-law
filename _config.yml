@@ -9,11 +9,11 @@ description:
 keywords:
 author: Mozy Okubo
 language:
-timezone: GMT+9
+timezone: 
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://mozy-ok-law.netlify.com/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
